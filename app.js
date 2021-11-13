@@ -8,3 +8,4 @@ let suma = num1 + num2
 PrimerNombre = "Ruben";
 
 console.log("el resultado de la suma de",num1 ," y ",num2, " es", suma);
+console.log("Muy bien Ruben, me parece perfecto!")
